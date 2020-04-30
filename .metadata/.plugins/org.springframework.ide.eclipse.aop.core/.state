@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="02-todo-web-application-h2"/>
+<aop-project name="03-todo-web-application-mysql"/>
+<aop-project name="01-hello-world-rest-api"/>
+</aop-reference-model>

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/home/aloisio/workspaces/kubernetes-crash-course/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1644787079.index
+/03-todo-web-application-mysql/src/main/java
+/home/aloisio/workspaces/kubernetes-crash-course/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1414068264.index
+/02-todo-web-application-h2/src/main/java
