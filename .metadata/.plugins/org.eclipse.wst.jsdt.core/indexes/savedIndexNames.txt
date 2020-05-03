@@ -1,2 +1,8 @@
 INDEX VERSION 1.4+/home/aloisio/workspaces/kubernetes-crash-course/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+915753940.index
+4146055094.index
 3266532181.index
+797157970.index
+461501614.index
+507206363.index
+2847264285.index
