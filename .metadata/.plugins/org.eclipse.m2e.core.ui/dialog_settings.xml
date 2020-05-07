@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/aloisio/workspaces/kubernetes-crash-course/05-currency-conversion-microservice-basic"/>
+			<item value="/home/aloisio/workspaces/kubernetes-crash-course/04-currency-exchange-microservice-basic"/>
 			<item value="/home/aloisio/workspaces/kubernetes-crash-course"/>
 		</list>
 		<list key="projectNameTemplate">

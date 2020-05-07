@@ -6,7 +6,7 @@
 
 	<groupId>com.in28minutes.microservices</groupId>
 	<artifactId>05-currency-conversion-basic</artifactId>
-	<version>0.0.2-RELEASE</version> <!-- CHANGE -->
+	<version>0.0.1-RELEASE</version> <!-- CHANGE -->
 	<packaging>jar</packaging>
 	<name>currency-conversion</name>
 
@@ -136,7 +136,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<repository>in28min/${project.name}</repository>
+					<repository>alvieira/${project.name}</repository>
 					<tag>${project.version}</tag>
 					<skipDockerInfo>true</skipDockerInfo>
 				</configuration>
