@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
-<aop-project name="05-currency-conversion-microservice-basic"/>
-<aop-project name="06-currency-conversion-microservice-cloud"/>
-<aop-project name="04-currency-exchange-microservice-basic"/>
+<aop-project name="08-currency-conversion-microservice-stackdriver"/>
+<aop-project name="07-currency-exchange-microservice-stackdriver"/>
 </aop-reference-model>
